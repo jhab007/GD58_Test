@@ -1,3 +1,4 @@
 *.zip filter=lfs diff=lfs merge=lfs -text
 *.mp4 filter=lfs diff=lfs merge=lfs -text
 *fbx filter=lfs diff=lfs merge=lfs -text
+08x02[[:space:]]Solo[[:space:]]se[[:space:]]muda[[:space:]]dos[[:space:]]veces[[:space:]]-[[:space:]]Copy.avi filter=lfs diff=lfs merge=lfs -text
